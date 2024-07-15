@@ -1,13 +1,9 @@
+<a href="https://github.com/418-teapot">
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=418-teapot&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
+</a>
+
 ### Hi there, I'm 418teapot! 👋
 
-:mortar_board: Master Candidate, ICT, UCAS(Institute of Computing Technology, University of Chinese Academy of Sciences)
+:open_book: PL, VM, Complier, Computer Architecture
 
-:open_book: TPU, NPU, Complier, Computer Architecture
-
-<a href="https://github.com/418-teapot">
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=418-teapot&hide_border=true&show_icons=true&include_all_commits=true&count_private=true">
- </a>
-
-<a href="https://github.com/418-teapot">
-  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=418-teapot&layout=compact&hide_border=true">
-</a>
+:briefcase: Triton/MLIR Compiler developer
